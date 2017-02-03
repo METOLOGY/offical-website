@@ -1,6 +1,7 @@
-# offical-site-debby
+# offical-site
 
-> A Vue.js project
+> New website for introducing Debby. 
+> A Vue.js project.
 
 ## Build Setup
 
