@@ -1,5 +1,5 @@
 <template>
-<div id="partner">
+<div id="partner" ref="partner">
   <div class="container">
     <h3>合作夥伴</h3>
     <div class="img-wrap">

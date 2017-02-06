@@ -1,5 +1,5 @@
 <template>
-<div id="member">
+<div id="member" ref="member">
   <div class="container">
     <h3>關於我們</h3>
   </div>

@@ -1,5 +1,5 @@
 <template>
-<div id="records">
+<div id="records" ref="records">
   <div class="container">
     <h3>參賽與獲獎紀錄</h3>
     <div class="row">

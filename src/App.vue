@@ -1,12 +1,12 @@
 <template>
   <div id="app">
     <img id="metology-logo" src="/static/img/metology-icon.png">
-    <Navbar></Navbar>
-    <Product></Product>
-    <Records></Records>
-    <Partner></Partner>
-    <Member></Member>
-    <FootNav></FootNav>
+    <Navbar ref="navbar"></Navbar>
+    <Product ref="product"></Product>
+    <Records ref="records"></Records>
+    <Partner ref="partner"></Partner>
+    <Member ref="member"></Member>
+    <FootNav ref="foot-nav"></FootNav>
 
   </div>
 </template>
