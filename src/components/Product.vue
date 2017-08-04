@@ -17,8 +17,9 @@
             <h3>Debby - Line聊天機器人</h3>
             <p>記錄血糖、飲食紀錄，不再是容易忘記且麻煩的事情。Debby 在三餐飯後主動詢問您的飲食與血糖血糖狀況，並將所有資訊同步於雲端管理系統，隨時掌握過去數值，同時也是您任何關於糖尿病問題的小幫手。</p>
             <div class="qr-code">
-              <img src="/static/img/qr.png">
+              <img src="http://qr-official.line.me/L/JCLZu9Eh21.png">
             </div>
+            <a href="https://line.me/R/ti/p/%40olj5826z"><img height="36" border="0" alt="加入好友" src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png"></a>
           </div>
           <div class="one-half column" id="debby-mock-up">
           </div>

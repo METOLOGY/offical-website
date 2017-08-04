@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img id="metology-logo" src="/static/img/metology-icon.png">
+    <img id="metology-logo" src="/static/img/metology_300_300px_72ppi.png">
     <Navbar ref="navbar"></Navbar>
     <Product ref="product"></Product>
     <Records ref="records"></Records>

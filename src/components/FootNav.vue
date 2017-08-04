@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="three columns">
-        <img src="/static/img/metology-icon-white.png">
+        <img src="/static/img/metology_300_300px_72ppi.png">
       </div>
       <div class="nine columns">
         <div class="nav">
